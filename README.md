@@ -19,7 +19,19 @@ Before development began, the project architecture, database models, and user wo
 
 ---
 
-## 🔗 Demo Link
+
+## 🔗 Live Demo
+
+> Access the fully deployed application here:
+
+| Service | URL |
+|---|---|
+| 🌐 **Frontend Client** | [https://client-pied-six-61.vercel.app](https://client-pied-six-61.vercel.app) |
+| ⚙️ **Backend API Server** | [https://server-eta-beige.vercel.app](https://server-eta-beige.vercel.app) |
+
+🎥 **Demo Video:** [ShopEZ Full Walkthrough – Google Drive](https://drive.google.com/file/d/1LOFimFDa4oChE6a9o1xq23taMsYONXvS/view?usp=drivesdk)
+
+---
 
 
 ## 🔑 Test Accounts & Credentials
