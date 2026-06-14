@@ -186,8 +186,6 @@ client/src/
 |---|---|
 | Steps for Execution | See **How to Run Locally** section below |
 | Test Credentials | `admin@shopez.com` / `admin123` · `sarah@shopez.com` / `sarah123` |
-| Deployed Frontend | Vercel *(see Live Demo section)* |
-| Deployed Backend | Render *(see Live Demo section)* |
 
 ---
 
