@@ -344,8 +344,6 @@ SHOP_EZ/
 
 - The `server/.env` file is **git-ignored** — never commit your secrets.
 - Free-tier MongoDB Atlas requires your IP to be whitelisted under **Security → Network Access**.
-- For Vercel deployment, set environment variables (`MONGO_URI`, `JWT_SECRET`) in the Vercel project dashboard.
-- The client `vercel.json` includes SPA rewrite rules so React Router works on browser refresh.
 
 ---
 
