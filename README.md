@@ -344,7 +344,7 @@ SHOP_EZ/
 |---|---|
 | **Frontend** | React 18, Vite, React Router v6, Lucide Icons, Vanilla CSS |
 | **Backend** | Node.js, Express.js, REST API |
-| **Database** | MongoDB Atlas, Mongoose ODM |
+| **Database** | MongoDB Atlas |
 | **Auth** | JSON Web Tokens (JWT), bcryptjs password hashing |
 | **Deployment** | Vercel (client) · Render (server) |
 
