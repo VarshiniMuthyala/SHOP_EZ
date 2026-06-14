@@ -19,16 +19,8 @@ Before development began, the project architecture, database models, and user wo
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Demo Link
 
-> Access the fully deployed application here:
-
-| Service | URL |
-|---|---|
-| 🌐 **Frontend Client** | [ShopEZ on Vercel](#) *(deploy to get your link)* |
-| ⚙️ **Backend API Server** | [ShopEZ API on Render](#) *(deploy to get your link)* |
-
----
 
 ## 🔑 Test Accounts & Credentials
 
